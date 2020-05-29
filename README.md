@@ -7,7 +7,7 @@ A. Steps run code
   	If your machine is Linux, you need to install docker-compose using this link : https://docs.docker.com/compose/install/
 	Note : Didn't do volume mapping as I don't know your system folder structure.
 
-From Table I am showning top 15 rows.
+From Table I am showning top 5 rows.
 
 B. Schema and Tables 
 
