@@ -27,7 +27,7 @@ C. Points to achieve
 	4. OOPS are also included.
 	5. Crawled all APIs.
 	
-	Number of entries in the table = 673
+	Number of entries in the table = 642
 	
 
 D. Points that not achieved
