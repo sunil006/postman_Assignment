@@ -140,7 +140,7 @@ class Crawler():
 
 #As of now considered only 5 pages.
 #Crawled Every API
-pages=['1','2','3','4','5','6','7','8','9','10']
+pages=['1','2','3','4','5','6','7','8']
 base='https://public-apis-api.herokuapp.com/api/v1/apis/entry?page='
 token_url='https://public-apis-api.herokuapp.com/api/v1/auth/token'
 category_url='https://public-apis-api.herokuapp.com/api/v1/apis/categories?page='
