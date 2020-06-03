@@ -6,7 +6,7 @@ import psycopg2
 import pandas as pd
 import pandas.io.sql as psql
 import time
-connection = psycopg2.connect(user='sunil',password='Sunil@1913',host='localhost',port="5432",database='postman')
+connection = psycopg2.connect(user='postgres',password='postgres',host='db',port="5432",database='postgres')
 cursor = connection.cursor()
 
 
