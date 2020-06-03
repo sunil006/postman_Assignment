@@ -32,6 +32,14 @@ class Meta_Info():
 			Categories.append(c)
 
 		Categories = list(itertools.chain(*Categories))
+		Categories[3] = 'Art %26 Design'
+		Categories[7] = 'Cloud Storage %26 File Sharing'
+		Categories[14] = 'Documents %26 Productivity'
+		Categories[18] = 'Food %26 Drink'
+		Categories[19] = 'Games %26 Comics'
+		Categories[32] = 'Science %26 Math'
+		Categories[36] = 'Sports %26 Fitness'
+		Categories = list(itertools.chain(*Categories))
 		return Categories
 
 	@staticmethod
